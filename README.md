@@ -1,4 +1,4 @@
-# Проблемы и пожелания к сайту CSCenter
+# Сайт CSCenter: проблемы и пожелания
 
 [Раздел "issues"](https://github.com/cscenter/public-issue-tracker/issues) ждёт
 ваших описаний пожеланий, проблем и благодарностей, жалоб на баги и
